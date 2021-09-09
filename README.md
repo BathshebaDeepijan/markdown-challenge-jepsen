@@ -30,6 +30,6 @@ _Si vous pouvez le rêver, vous pouvez le faire._
 
 ###### CHUTE FRUITÉE !
 
-[Baptiste Geron]( https://github.com/BaptisteGeron/markdown-challenge) || [Bathsheba Deepijan]() || [Bruno Presti]()
+[Baptiste Geron]( https://github.com/BaptisteGeron/markdown-challenge) || [Bathsheba Deepijan](https://github.com/BathshebaDeepijan/markdown-challenge) || [Bruno Presti]()
 
 
