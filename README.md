@@ -19,9 +19,9 @@ _Si vous pouvez le rêver, vous pouvez le faire._
 
 1. Broderie Diamants
 2. Jeux Vidéo :
-⋅⋅* MMORPG
-⋅⋅* RPG JAPONAIS
-⋅⋅* MARIO
+⋅⋅1 MMORPG
+⋅⋅2 RPG JAPONAIS
+⋅⋅3 MARIO
 3. Coder
 
 ##### Tu peux toujours compter sur moi si tu as besoin d'une oreille attentive, de motivation et d'obtimisme ;) !
