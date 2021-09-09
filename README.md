@@ -10,10 +10,10 @@ _Si vous pouvez le rêver, vous pouvez le faire._
 ### Maman combler qui vit sa vie à fond !
 
 
-| Anniversaire | Couleur préférée | Plat préféré      | Ananas sur la pizza |
-|--------------|----------------  |---------------    |---------------------|
-|  17/06       |    Bleu          | Cuisine Asiatique | - [x] OUI           |
-|              |                  |                   | - [ ] NON           |
+| Anniversaire | Couleur préférée | Plat préféré      | Ananas sur la pizza                                  |
+|--------------|----------------  |---------------    |------------------------------------------------------|
+|  17/06       |    Bleu          | Cuisine Asiatique | <ul><li>- [x] OUI </li><li> - [ ] NON </li></ul>     |
+
 
 #### Hobbies
 
