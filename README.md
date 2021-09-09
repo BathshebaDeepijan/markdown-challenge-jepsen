@@ -1,15 +1,9 @@
 # markdown-challenge
-
-# markdown-challenge
-
 *****
-## Deepijan Bathsheba
-
-_Si vous pouvez le rêver, vous pouvez le faire._
-
-![alt text] (C:\Users\bathsheba\Desktop\BeCode\markdown-challenge-main\markdown-challenge\ photoMoi.jpg "photo proffesionnel")
-
 ### Maman combler qui vit sa vie à fond !
+
+![photoMoi](https://user-images.githubusercontent.com/90143547/132659908-fc11b94c-deb3-4318-9516-65236238cece.jpg)
+
 
 | Anniversaire | Couleur préférée | Plat préféré      | Ananas sur la pizza |
 |--------------|----------------  |---------------    |---------------------|
